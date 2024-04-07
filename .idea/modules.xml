@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algorithm_Note.iml" filepath="$PROJECT_DIR$/Algorithm_Note.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BFS/BFS.iml" filepath="$PROJECT_DIR$/BFS/BFS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Combination/Combination.iml" filepath="$PROJECT_DIR$/Combination/Combination.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DFS/DFS.iml" filepath="$PROJECT_DIR$/DFS/DFS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP/DP.iml" filepath="$PROJECT_DIR$/DP/DP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Deque/Deque.iml" filepath="$PROJECT_DIR$/Deque/Deque.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dijkstra Algorithm/Dijkstra Algorithm.iml" filepath="$PROJECT_DIR$/Dijkstra Algorithm/Dijkstra Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Floyd-Warshall Algorithm/Floyd-Warshall Algorithm.iml" filepath="$PROJECT_DIR$/Floyd-Warshall Algorithm/Floyd-Warshall Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph.iml" filepath="$PROJECT_DIR$/Graph/Graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Input_OutPut/Input_OutPut.iml" filepath="$PROJECT_DIR$/Input_OutPut/Input_OutPut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kruskal Algorithm/Kruskal Algorithm.iml" filepath="$PROJECT_DIR$/Kruskal Algorithm/Kruskal Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/List.iml" filepath="$PROJECT_DIR$/List/List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Map/Map.iml" filepath="$PROJECT_DIR$/Map/Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Math/Math.iml" filepath="$PROJECT_DIR$/Math/Math.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Permutation/Permutation.iml" filepath="$PROJECT_DIR$/Permutation/Permutation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PowerSet/PowerSet.iml" filepath="$PROJECT_DIR$/PowerSet/PowerSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prim Algorithm/Prim Algorithm.iml" filepath="$PROJECT_DIR$/Prim Algorithm/Prim Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queue/Queue.iml" filepath="$PROJECT_DIR$/Queue/Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Set/Set.iml" filepath="$PROJECT_DIR$/Set/Set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sort/Sort.iml" filepath="$PROJECT_DIR$/Sort/Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tree/Tree.iml" filepath="$PROJECT_DIR$/Tree/Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Union-Find Algorithm/Union-Find Algorithm.iml" filepath="$PROJECT_DIR$/Union-Find Algorithm/Union-Find Algorithm.iml" />
+    </modules>
+  </component>
+</project>
